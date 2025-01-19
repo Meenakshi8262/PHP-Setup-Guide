@@ -49,7 +49,5 @@ This guide will help you get your PHP files running on your local machine using 
 
 ---
 
-## Notes
 
-- You can place additional PHP files into the `htdocs` directory and access them in the browser by navigating to `http://localhost/<file_name>.php`.
 
