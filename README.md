@@ -1,4 +1,4 @@
-# PHP Project Setup Guide
+# PHP Setup Guide
 
 This guide will help you get your PHP files running on your local machine using XAMPP.
 
@@ -44,7 +44,7 @@ This guide will help you get your PHP files running on your local machine using 
 ## Troubleshooting
 
 - If you can't access the pages, make sure Apache is running in the XAMPP Control Panel.
-- Ensure that the file names are correct, and you are using the right paths.
+- Ensure that the file names are correct, and that you are using the right paths.
 - If Apache doesn’t start, check if another application is using port 80 and resolve the conflict.
 
 ---
